@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Posts Table Pro\n"
+"POT-Creation-Date: 2018-08-31 13:34+0100\n"
+"PO-Revision-Date: 2019-09-09 12:08+0100\n"
+"Last-Translator: Andrew Keith <andy@barn2.co.uk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: posts-data-table-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: includes/license/EDD_SL_Plugin_Updater.php\n"
+
+#: includes/admin/class-posts-table-admin-general.php:26
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/class-posts-table-admin-general.php:34
+msgid "View Posts Table Pro documentation"
+msgstr "Просмотр документации Posts Pro Pro"
+
+#: includes/admin/class-posts-table-admin-general.php:34
+msgid "Docs"
+msgstr "Документы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:31
+#: includes/admin/class-posts-table-admin-settings-page.php:38
+msgid "Posts Table Pro Settings"
+msgstr "Настройки Posts Table Pro"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-posts-table-admin-settings-page.php:31
+msgid "Posts Table Pro"
+msgstr "Posts Table Pro"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:48
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:78
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:89
+msgid "Posts selection"
+msgstr "Выбор сообщений"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:92
+msgid "Post type"
+msgstr "Тип сообщения"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:94
+msgid ""
+"The default post type for your tables. This option can also set via the "
+"shortcode."
+msgstr ""
+"Тип записи по умолчанию для ваших таблиц. Эта опция также может быть "
+"установлена ​​с помощью шорткода."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:102
+msgid "Table content"
+msgstr "Содержание таблицы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:105
+msgid "Columns"
+msgstr "Колонки"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:107
+msgid "Customize the columns used in your table."
+msgstr "Настройте столбцы, используемые в вашей таблице."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:112
+msgid "Image size"
+msgstr "Размер изображения"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:114
+msgid "W x H in pixels. Sets the image size when using the 'image' column."
+msgstr ""
+"Ш х В в пикселях. Устанавливает размер изображения при использовании "
+"столбца «изображение»."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:119
+msgid "Image lightbox"
+msgstr "Лайтбокс изображения"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:121
+msgid "Display featured images in a lightbox when opened"
+msgstr "Показывать избранные изображения в лайтбоксе при открытии"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:125
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:128
+msgid ""
+"Display shortcodes, HTML and other formatting inside the table content"
+msgstr ""
+"Отображать шорткоды, HTML и другое форматирование внутри содержимого "
+"таблицы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:133
+msgid "Content length"
+msgstr "Длина содержимого"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:136
+#: includes/admin/class-posts-table-admin-settings-page.php:148
+msgid "words"
+msgstr "слов"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:137
+msgid "Enter -1 to show the full post content."
+msgstr "Введите -1, чтобы показать полное содержание сообщения."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:145
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:149
+msgid "Enter -1 to show the full excerpt."
+msgstr "Введите -1, чтобы показать полный отрывок."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:157
+msgid "Links"
+msgstr "Ссылки"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:159
+msgid "Include links to the relevant post, category, tag, or term."
+msgstr "Включите ссылки на соответствующий пост, категорию, тег или термин."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:166
+msgid "Table loading"
+msgstr "Загрузка таблицы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:168
+msgid "Lazy load"
+msgstr "Ленивая загрузка"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:171
+msgid "Load the posts one page at a time"
+msgstr "Загружайте посты по одной странице за раз"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:173
+#, php-format
+msgid ""
+"Enable this if you have many posts or experience slow page load times. "
+"%sWarning:%s Lazy load limits the searching and sorting features in the "
+"table. Only use it if you definitely need it."
+msgstr ""
+"Включите эту опцию, если у вас много сообщений или у вас медленное время "
+"загрузки страницы. % sПредупреждение:%s Ленивая загрузка ограничивает "
+"функции поиска и сортировки в таблице. Используйте только для случая, если "
+"вам определенно это нужно."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:183
+msgid "Post limit"
+msgstr "Ограничение сообщений"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:186
+msgid "The maximum (total) number of posts to display in one table."
+msgstr ""
+"Максимальное (общее) количество сообщений для отображения в одной таблице."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:194
+msgid "Posts per page"
+msgstr "Сообщений на странице"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:197
+msgid ""
+"The number of posts per page of results. Enter -1 to display all posts on "
+"one page."
+msgstr ""
+"Количество постов на странице результатов. Введите -1, чтобы отобразить "
+"все сообщения на одной странице."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:204
+msgid "Caching"
+msgstr "Кэширование"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:207
+msgid "Cache table contents to improve load time"
+msgstr "Кэширование содержимого таблицы для улучшения времени загрузки"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:215
+msgid "Cache expires after"
+msgstr "Срок действия кэша истекает после"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:218
+msgid "hours"
+msgstr "часов"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:219
+msgid "Your table data will be refreshed after this length of time."
+msgstr "Данные вашей таблицы будут обновлены по прошествии этого времени."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:231
+msgid "Sorting"
+msgstr "Сортировка"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:233
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:237
+#: includes/class-posts-table-columns.php:166
+msgid "Title"
+msgstr "Заголовку"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:238
+#: includes/class-posts-table-columns.php:165
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:239
+msgid "Date published"
+msgstr "Дата публикации"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:240
+msgid "Date modified"
+msgstr "Дата изменения"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:241
+msgid "Page order (menu order)"
+msgstr "Порядок страниц (порядок меню)"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:242
+msgid "Post 'slug'"
+msgstr "Для записи 'слаг'"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:243
+#: includes/class-posts-table-columns.php:170
+msgid "Author"
+msgstr "Автор"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:244
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:245
+msgid "Random"
+msgstr "Случайный"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:246
+#: includes/admin/class-posts-table-admin-settings-page.php:286
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:248
+msgid "The initial sort order applied to the table."
+msgstr "Исходный порядок сортировки применяется к таблице."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:257
+msgid "Sort column"
+msgstr "Сортировать столбцов"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:261
+msgid ""
+"Enter any column in your table. Will only work when lazy load is disabled."
+msgstr ""
+"Введите любой столбец в вашей таблице. Будет работать только при "
+"отключенной ленивой нагрузке."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:264
+msgid "Sort direction"
+msgstr "Направление сортировки"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:268
+msgid "Automatic"
+msgstr "Автоматически"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:269
+msgid "Ascending (A to Z, 1 to 99)"
+msgstr "По возрастанию (A до Z, 1 до 99)"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:270
+msgid "Descending (Z to A, 99 to 1)"
+msgstr "По убыванию (Z до A, 99 до 1)"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:278
+msgid "Table controls"
+msgstr "Управление таблицами"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:280
+msgid "Search filters"
+msgstr "Фильтры поиска"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:284
+msgid "Disabled"
+msgstr "Запрещен"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:285
+msgid "Show based on columns in table"
+msgstr "Показать на основе столбцов в таблице"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:288
+msgid ""
+"Dropdown lists to filter the table by category, tag, attribute, or custom "
+"taxonomy."
+msgstr ""
+"Раскрывающиеся списки для фильтрации таблицы по категории, тегу, атрибуту "
+"или пользовательской таксономии."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:297
+msgid "Custom filters"
+msgstr "Пользовательские фильтры"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:300
+msgid "Enter the filters as a comma-separated list."
+msgstr "Введите фильтры в виде списка через запятую."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:304
+msgid "Page length"
+msgstr "Число страниц"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:308
+#: includes/admin/class-posts-table-admin-settings-page.php:321
+#: includes/admin/class-posts-table-admin-settings-page.php:333
+#: includes/admin/class-posts-table-admin-settings-page.php:346
+msgid "Above table"
+msgstr "Над таблицей"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:309
+#: includes/admin/class-posts-table-admin-settings-page.php:322
+#: includes/admin/class-posts-table-admin-settings-page.php:334
+#: includes/admin/class-posts-table-admin-settings-page.php:347
+msgid "Below table"
+msgstr "Ниже таблицы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:310
+#: includes/admin/class-posts-table-admin-settings-page.php:323
+#: includes/admin/class-posts-table-admin-settings-page.php:335
+#: includes/admin/class-posts-table-admin-settings-page.php:348
+msgid "Above and below table"
+msgstr "Выше и ниже таблицы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:311
+#: includes/admin/class-posts-table-admin-settings-page.php:324
+#: includes/admin/class-posts-table-admin-settings-page.php:336
+#: includes/admin/class-posts-table-admin-settings-page.php:349
+msgid "Hidden"
+msgstr "Скрытый"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:313
+msgid "The position of the 'Show [x] entries' dropdown list."
+msgstr "Положение раскрывающегося списка «Показать [x] записей»."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:317
+msgid "Search box"
+msgstr "Поисковая строка"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:329
+msgid "Totals"
+msgstr "Всего"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:338
+msgid "The position of the post totals, e.g. 'Showing 1 to 5 of 10 entries'."
+msgstr "Позиция общего итога, например, «Показано с 1 по 5 из 10 записей»."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:342
+msgid "Pagination buttons"
+msgstr "Кнопки нумерации страниц"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:351
+msgid "The position of the paging buttons which scroll between results."
+msgstr ""
+"Положение кнопок выбора страниц, которые прокручивают между результатами."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:355
+msgid "Pagination type"
+msgstr "Тип пагинации"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:359
+msgid "Numbers only"
+msgstr "Только числа"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:360
+msgid "Prev|Next"
+msgstr "Предыдущая | Следующая"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:361
+msgid "Prev|Next + Numbers"
+msgstr "Предыдущая | Следующая + Числа"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:362
+msgid "Prev|Next|First|Last"
+msgstr "Предыдущая | Следующая | Первая | Последняя"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:363
+msgid "Prev|Next|First|Last + Numbers"
+msgstr "Предыдущая | Следующая | Первая | Последняя + номера"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:368
+msgid "Reset button"
+msgstr "Кнопка сброса"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:371
+msgid "Show the reset button above the table"
+msgstr "Показать кнопку сброса над таблицей"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:394
+#, php-format
+msgid ""
+"By default, your tables display all published posts for the selected post "
+"type. To restrict the posts by category, tag, taxonomy, date, custom "
+"field, etc. you need to add the relevant option to your shortcode. Please "
+"see the %sKnowledge Base%s for details."
+msgstr ""
+"По умолчанию в ваших таблицах отображаются все опубликованные сообщения "
+"для выбранного типа сообщений. Чтобы ограничить количество публикаций по "
+"категориям, тегам, таксономии, дате, настраиваемым полям и т. д., Вам "
+"необходимо добавить соответствующую опцию в свой шорткод. Пожалуйста, "
+"смотрите % sKnowledge Base% s для деталей."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:405
+#, php-format
+msgid ""
+"The following options set defaults for the [posts_table] shortcode. You "
+"can override these by setting the relevant option in the shortcode. See "
+"the %sfull list of shortcode options%s for details."
+msgstr ""
+"Следующие параметры устанавливают значения по умолчанию для шорткода "
+"[posts_table]. Вы можете переопределить их, установив соответствующую "
+"опцию в шорткоде. Смотрите % s полный список опций шорткода %s для "
+"подробностей."
+
+#: includes/admin/class-posts-table-admin-settings-page.php:418
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:420
+msgid "Knowledge Base"
+msgstr "База знаний"
+
+#: includes/admin/class-posts-table-admin-settings-page.php:473
+msgid "Read more"
+msgstr "Читать далее"
+
+#: includes/class-posts-table-columns.php:167
+msgid "Content"
+msgstr "Содержимое"
+
+#: includes/class-posts-table-columns.php:168
+msgid "Summary"
+msgstr "Сводка"
+
+#: includes/class-posts-table-columns.php:169
+msgid "Date"
+msgstr "Дата"
+
+#: includes/class-posts-table-columns.php:171
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/class-posts-table-columns.php:172
+msgid "Tags"
+msgstr "Теги"
+
+#: includes/class-posts-table-columns.php:173
+msgid "Status"
+msgstr "Статус"
+
+#: includes/class-posts-table-columns.php:174
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/class-posts-table-config-builder.php:68
+msgctxt "show all posts option"
+msgid "All"
+msgstr "Все"
+
+#: includes/class-posts-table-frontend-scripts.php:73
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Показаны _START_ до _END_ из _TOTAL_ записей"
+
+#: includes/class-posts-table-frontend-scripts.php:74
+msgid "Showing 0 entries"
+msgstr "Отображение 0 записей"
+
+#: includes/class-posts-table-frontend-scripts.php:75
+msgid "(_MAX_ entries in total)"
+msgstr "(Максимальное число записей из возможных)"
+
+#: includes/class-posts-table-frontend-scripts.php:76
+msgid "Show _MENU_ entries"
+msgstr "Показать _MENU_ записей"
+
+#: includes/class-posts-table-frontend-scripts.php:77
+msgid "No data available in table."
+msgstr "Данные в таблице отсутствуют."
+
+#: includes/class-posts-table-frontend-scripts.php:78
+msgid "No matching records found."
+msgstr "Соответствующие записи не найдены."
+
+#: includes/class-posts-table-frontend-scripts.php:79
+msgid "Search:"
+msgstr "Поиск:"
+
+#: includes/class-posts-table-frontend-scripts.php:81
+msgid "First"
+msgstr "Первый"
+
+#: includes/class-posts-table-frontend-scripts.php:82
+msgid "Last"
+msgstr "Последний"
+
+#: includes/class-posts-table-frontend-scripts.php:83
+msgid "Next"
+msgstr "Следующий"
+
+#: includes/class-posts-table-frontend-scripts.php:84
+msgid "Previous"
+msgstr "Предыдущей"
+
+#: includes/class-posts-table-frontend-scripts.php:86
+msgctxt "thousands separator"
+msgid ","
+msgstr ","
+
+#: includes/class-posts-table-frontend-scripts.php:87
+msgctxt "decimal mark"
+msgid "."
+msgstr "."
+
+#: includes/class-posts-table-frontend-scripts.php:90
+msgid ": activate to sort column ascending"
+msgstr ": активировать для сортировки столбца по возростанию"
+
+#: includes/class-posts-table-frontend-scripts.php:92
+msgid ": activate to sort column descending"
+msgstr ": активировать для сортировки столбца по убыванию"
+
+#: includes/class-posts-table-frontend-scripts.php:94
+msgid "Filter:"
+msgstr "Фильтр:"
+
+#: includes/class-posts-table-frontend-scripts.php:95
+msgid "Reset"
+msgstr "Сброс"
+
+#: includes/data/class-posts-table-data-categories.php:26
+msgid "Uncategorized"
+msgstr "Без рубрики"
+
+#: includes/data/class-posts-table-data-custom-field.php:143
+msgid "True"
+msgstr "Истина"
+
+#: includes/data/class-posts-table-data-custom-field.php:143
+msgid "False"
+msgstr "Ложь"
+
+#: includes/license/class-b2-plugin-license.php:146
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Срок действия ключей лицензии истекает %s."
+
+#: includes/license/class-b2-plugin-license.php:150
+msgid "Your license key has been disabled."
+msgstr "Ключ от лицензии отключен."
+
+#: includes/license/class-b2-plugin-license.php:154
+msgid "Your license key is invalid."
+msgstr "Ключ лицензии недействителен."
+
+#: includes/license/class-b2-plugin-license.php:158
+msgid "Your license is not active for this URL."
+msgstr "Ваша лицензия не активна для этого URL."
+
+#: includes/license/class-b2-plugin-license.php:161
+msgid "Your license key has reached its activation limit."
+msgstr "Ключ лицензии достиг предела активации."
+
+#: includes/license/class-b2-plugin-license.php:164
+#: includes/license/class-b2-plugin-license.php:245
+msgid "There was an error activating your license, please try again."
+msgstr "Была ошибка активации вашей лицензии, пожалуйста, повторите попытку."
+
+#: includes/license/class-b2-plugin-license.php:233
+msgid "Please enter your license key."
+msgstr "Пожалуйста, введите свой ключ лицензии."
+
+#: includes/license/class-b2-plugin-license.php:234
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: includes/license/class-b2-plugin-license.php:237
+msgid "License key successfully activated."
+msgstr "Ключ лицензии успешно активирован."
+
+#: includes/license/class-b2-plugin-license.php:239
+msgid "License key successfully deactivated. Click Save to reactivate."
+msgstr ""
+"Ключ лицензии успешно деактивирован. Нажмите Сохранить, чтобы активировать."
+
+#: includes/license/class-b2-plugin-license.php:241
+msgid "There was an error deactivating your license key, please try again."
+msgstr ""
+"Произошла ошибка, отключив ключ от лицензии, пожалуйста, повторите попытку."
+
+#: includes/license/class-b2-plugin-license.php:310
+msgid "An error has occurred, please try again."
+msgstr "Ошибка произошла, пожалуйста, повторите попытку."
+
+#: templates/photoswipe.php:46
+msgid "Close (Esc)"
+msgstr "Закрыть (Esc)"
+
+#: templates/photoswipe.php:48
+msgid "Share"
+msgstr "Предоставить общий доступ"
+
+#: templates/photoswipe.php:50
+msgid "Toggle fullscreen"
+msgstr "Переключать в полноэкранный"
+
+#: templates/photoswipe.php:52
+msgid "Zoom in/out"
+msgstr "Масштабирование: уменьшить/увеличить"
+
+#: templates/photoswipe.php:69
+msgid "Previous (arrow left)"
+msgstr "Предыдущий (стрелка слева)"
+
+#: templates/photoswipe.php:71
+msgid "Next (arrow right)"
+msgstr "Далее (стрелка вправо)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://barn2.co.uk/wordpress-plugins/posts-table-pro/"
+msgstr "https://barn2.co.uk/wordpress-plugins/posts-table-pro/"
+
+#. Description of the plugin/theme
+msgid ""
+"Display your site's posts, pages, and custom post types in a sortable, "
+"searchable and filterable data table."
+msgstr ""
+"Отображение сообщений, страниц и пользовательских типов публикаций в "
+"таблице сортируемых, поисковых и фильтруемых данных."
+
+#. Author of the plugin/theme
+msgid "Barn2 Media"
+msgstr "Barn2 Media"
+
+#. Author URI of the plugin/theme
+msgid "https://barn2.co.uk"
+msgstr "https://barn2.co.uk"
